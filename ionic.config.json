@@ -1,0 +1,7 @@
+{
+  "name": "BareBones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
